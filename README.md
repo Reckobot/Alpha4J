@@ -26,6 +26,7 @@
   - A panorama to every menu background
   - A tutorial world
   - A toggle for the alpha watermark
+  - Music to the title screen
 - Changes
   - A bit of code to add support for the tutorial world
 
