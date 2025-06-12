@@ -1,5 +1,7 @@
 **PLEASE READ THE INSTALL INSTRUCTIONS**
 
+![Logo](https://github.com/Reckobot/Alpha4J/blob/main/icon.png?raw=true)
+
 # Alpha4J
 **A mod for Minecraft Alpha 1.2.6 that overhauls the game to be more like Legacy Console.**
 
