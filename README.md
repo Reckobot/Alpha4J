@@ -1,5 +1,3 @@
-**PLEASE READ THE INSTALL INSTRUCTIONS**
-
 ![Logo](https://github.com/Reckobot/Alpha4J/blob/main/icon.png?raw=true)
 
 # Alpha4J
