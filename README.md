@@ -34,3 +34,9 @@
 
 #
 ### **Copyright Reckobot 2025**
+
+#
+
+# Credits
+
+- **The Minecraft Architect - TU1 Tutorial World**
