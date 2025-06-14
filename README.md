@@ -4,7 +4,7 @@
 
 ![Logo](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/logo.png)
 
-**A mod for Minecraft Alpha 1.2.6 that overhauls the game to be more like Legacy Console.**
+**A mod for Minecraft Alpha 1.2.6 that overhauls the game to be more like Legacy Console while still keeping the vibes of Alpha.**
 
 ![In-game screenshot](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/screenshot.webp)
 
