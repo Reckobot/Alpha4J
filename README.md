@@ -41,4 +41,4 @@
 # Credits
 
 - **The Minecraft Architect - TU1 Tutorial World**
-- The Legacy4J Team for being awesome
+- **The Legacy4J Team for being awesome**
