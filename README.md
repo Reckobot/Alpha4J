@@ -2,7 +2,7 @@
 
 # If you want a more accurate console experience on newer versions, check out [Legacy4J](https://modrinth.com/mod/legacy4j)!
 
-![Logo](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/logo.webp)
+![Logo](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/logo.png)
 
 # Alpha4J
 **A mod for Minecraft Alpha 1.2.6 that overhauls the game to be more like Legacy Console.**
