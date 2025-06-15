@@ -42,3 +42,5 @@
 
 - **The Minecraft Architect - TU1 Tutorial World**
 - **The Legacy4J Team for being awesome**
+
+# NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
