@@ -23,7 +23,7 @@
 - Adds
   - In game tooltips
   - A gamma slider
-  - An adaptive translucency to the hotbar (Disabled by default to keep Alpha vibes)
+  - An optional adaptive translucency to the hotbar (set to opaque by default)
   - An offset to the hotbar
   - An opacity slider for the hotbar translucency
   - A slider for the offset amount for the hotbar
