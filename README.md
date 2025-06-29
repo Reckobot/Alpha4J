@@ -21,8 +21,9 @@
 # What the mod changes
 
 - Adds
+  - In game tooltips
   - A gamma slider
-  - An adaptive translucency to the hotbar
+  - An adaptive translucency to the hotbar (Disabled by default to keep Alpha vibes)
   - An offset to the hotbar
   - An opacity slider for the hotbar translucency
   - A slider for the offset amount for the hotbar
@@ -30,6 +31,9 @@
   - A tutorial world
   - A toggle for the alpha watermark
   - Music to the title screen
+- Fixes
+  - Ore generation bug present before Beta 1.6
+  - The leaf decay bug present on Alpha 1.2.6
 - Changes
   - A bit of code to add support for the tutorial world
 
