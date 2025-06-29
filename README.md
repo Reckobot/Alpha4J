@@ -8,6 +8,8 @@
 
 ![In-game screenshot](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/screenshot.webp)
 
+![Main menu](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/screenshot2.webp)
+
 # Install Instructions
 
 - Download prism or multimc
