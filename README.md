@@ -25,7 +25,7 @@
 - Adds
   - In game tooltips
   - A gamma slider
-  - An optional adaptive translucency to the hotbar (set to opaque by default)
+  - An adaptive translucency to the hotbar
   - An offset to the hotbar
   - An opacity slider for the hotbar translucency
   - A slider for the offset amount for the hotbar
