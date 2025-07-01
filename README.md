@@ -1,3 +1,5 @@
+# [MODRINTH](https://modrinth.com/mod/alpha4j)
+
 # [RELEASES](https://github.com/Reckobot/Alpha4J/releases)
 
 # [SOURCE CODE](https://github.com/Reckobot/Alpha4J-SRC)
