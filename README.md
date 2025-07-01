@@ -1,5 +1,7 @@
 # [RELEASES](https://github.com/Reckobot/Alpha4J/releases)
 
+# [SOURCE CODE](https://github.com/Reckobot/Alpha4J-SRC)
+
 # If you want a more accurate console experience on newer versions, check out [Legacy4J](https://modrinth.com/mod/legacy4j)!
 
 ![Logo](https://github.com/Reckobot/Alpha4J/raw/refs/heads/main/logo.png)
